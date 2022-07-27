@@ -9,7 +9,7 @@
     background-color: yellow;
     margin:0 auto;
     padding: 40px;
-    margin-top: 20pxg;
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 
@@ -37,7 +37,7 @@ p {
 }
 
 ul {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .list {
     display: flex;
